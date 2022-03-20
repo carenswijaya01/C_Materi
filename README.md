@@ -1,2 +1,2 @@
 # C_Materi
-Materi-materi untuk bahasa pemrograman C
+Materi-materi untuk bahasa pemrograman C, ikuti berdasarkan urutan nomor
