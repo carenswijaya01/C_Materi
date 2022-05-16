@@ -7,6 +7,9 @@ struct mahasiswa{
     int umur;
     struct mahasiswa *next;
 }*head, *tail, *current;
+//head => pointer yang menyimpan alamat data pertama
+//tail => pointer yang menyimpan alamat data terakhir
+//current => pointer yang digunakan sebagai temporary variabel
 
 void LihatData(){
     if(head == NULL){
